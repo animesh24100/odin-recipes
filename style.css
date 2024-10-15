@@ -24,11 +24,14 @@ ul {
   height: 50%;
   border-radius: 10px;
   border: 5px double #485175;
-  font-size: 1.5em;
+  font-size: 100%;
 }
 a {
   color: #7091e6;
 }
 li {
   line-height: 1.7em;
+}
+ol {
+  padding: 10px 50px;
 }
